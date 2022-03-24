@@ -7,7 +7,8 @@ My name is tugaric I am an aspiring programmeur! I chose the wrong bachelor's de
 
 *Since* no one is ever going to read this, I'm having a bit of a giggle.
 
-This is a table representing the saddness increase every day at work: 
+This is a table represents the saddness increase every day at work: 
 |day 	| saddness 	|
 |---	|---	      |
 |1    |0	        |
+|2    |11111100000000000000000000000000000000|
